@@ -1,0 +1,12 @@
+4 iþlem için;
+
+Sayi1 girin, sayi2 girin ve iþlemi +, -, x, / olarak belirtin.
+
+trigonometrik için;
+
+sin, cos, tan, cot, girin ve açýyý derece cinsinden yazýnýz.
+
+Hesap makinasý için;
+
+C clear.
+iþlemler yapýlacak iþlemi belirtiyor.
